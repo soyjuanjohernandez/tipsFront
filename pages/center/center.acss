@@ -1,0 +1,65 @@
+.center-css{
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(135, 198, 235);
+}
+.center-css:nth-child(2){
+  background-color: rgb(135, 235, 168);
+}
+.center-css:nth-child(3){
+  background-color: rgb(170, 135, 235);
+}
+.center-css:nth-child(4){
+  background-color: rgb(235, 135, 177);
+}
+.center-css__item{
+  border: solid 2px white;
+  height: 100px;
+  width: 100px;
+  color: white;
+  filter: drop-shadow(1px 1px 3px rgba(0, 0, 0, 0.445));
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-transform: capitalize;
+}  
+
+
+
+
+/* Centrado con margin */
+.margin{
+  display: flex;
+}
+.margin > * {
+ margin: auto;
+}
+
+
+/* centrado con grid */
+.grid{
+  display: grid;
+  place-content: center;
+
+}
+
+
+/* centrado con position absolute */
+.absolute{
+  position: relative;
+}
+.absolute .center-css__item{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+/* centrado con flex (recomendado) */
+.flex{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

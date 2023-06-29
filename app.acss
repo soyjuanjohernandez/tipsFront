@@ -1,0 +1,16 @@
+page {
+  background: #f7f7f7;
+}
+
+
+page.a-page {
+  background: #f7f7f7;
+}
+
+/* .especificidad#especificidad{
+  background-color: red;
+} */
+
+/* #especificidad{
+  background-color: red;
+} */

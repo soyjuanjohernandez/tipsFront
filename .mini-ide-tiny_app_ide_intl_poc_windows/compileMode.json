@@ -1,0 +1,34 @@
+{
+  "modes": [
+    {
+      "title": "pages/index/index",
+      "page": "pages/boxModel/boxModel",
+      "pageQuery": ""
+    },
+    {
+      "title": "boxModel",
+      "page": "pages/boxModel/boxModel",
+      "pageQuery": ""
+    },
+    {
+      "title": "inline block",
+      "page": "pages/live/live",
+      "pageQuery": ""
+    },
+    {
+      "title": "especificidad",
+      "page": "pages/especificidad/especificidad",
+      "pageQuery": ""
+    },
+    {
+      "title": "Buttons",
+      "page": "pages/buton-paje/buton-paje",
+      "pageQuery": ""
+    },
+    {
+      "title": "center",
+      "page": "pages/center/center",
+      "pageQuery": ""
+    }
+  ]
+}

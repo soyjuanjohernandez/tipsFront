@@ -1,0 +1,15 @@
+*{
+
+}
+text{
+  margin: 3px;
+  padding: 3px;
+  background-color: peru;
+  position: relative;
+}
+
+view{
+  background-color: steelblue;
+  padding: 10px;
+  margin: 10px;
+}

@@ -1,0 +1,4 @@
+{
+  "usingComponents": {"claro-button":"/claroButton/claroButton"},
+  "styleIsolation": "apply-shared"
+}

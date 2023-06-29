@@ -1,0 +1,66 @@
+<view class="title">
+  <text >BOX MODEL</text>
+</view>
+
+
+<view class="title">
+  <text >Original sizing + 20rpx</text>
+</view>
+<view class="container">
+  <view class="original center">
+    <text> Original</text>
+  </view>
+
+  <view class="con-padding center">
+    <text>padding</text>
+  </view>
+
+  <view class="con-borde center">
+    <text>borde</text>
+  </view>
+
+  <view class="con-margin center">
+    <text>margin</text>
+  </view>
+
+
+  <view class="con-todos center">
+    <text>padding
+      border
+      margin
+    </text>
+  </view>
+
+</view>
+
+
+
+<view class="title">
+  <text > Box-sizing: border-box</text>
+</view>
+
+<view class="container">
+  <view class="original center border-box">
+    <text>Original</text>
+  </view>
+
+  <view class="con-padding center border-box">
+    <text>padding</text>
+  </view>
+
+  <view class="con-borde center border-box">
+    <text>borde</text>
+  </view>
+
+  <view class="con-margin center border-box">
+    <text>margin</text>
+  </view>
+
+  <view class="con-todos center border-box">
+    <text>padding
+      border
+      margin
+    </text>
+  </view>
+
+</view>

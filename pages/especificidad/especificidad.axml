@@ -1,0 +1,17 @@
+
+
+<view class="especificidad" id="especificidad">
+  <!--<view class="especificidad" id="especificidad" style="background-color: red"> -->
+
+  <text class="especificidad__text">
+    ESPECIFICIDAD
+  </text>
+
+  <view>
+
+    <text class="especificidad__text especificidad__text--serif">
+      ESPECIFICIDAD modificado
+    </text>
+  </view>
+
+</view>

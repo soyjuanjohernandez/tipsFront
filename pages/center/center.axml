@@ -1,0 +1,43 @@
+
+
+
+ <claro-button text="Primary" type="primary" onTap="alert" />
+
+ <claro-button text="Secondary" type="secondary" onTap="alert" />
+
+<view class="center-css margin">
+  <view class="center-css__item">
+    <text>margin</text>
+  </view>
+</view>
+
+
+
+<view class="center-css grid">
+  <view class="center-css__item">
+    <text>grid</text>
+  </view>
+</view>
+
+
+<view class="center-css absolute">
+  <view class="center-css__item">
+    <text>
+      position
+      absolute
+    </text>
+  </view>
+</view>
+
+
+<view class="center-css flex">
+  <view class="center-css__item">
+    <text>flex 🚀</text>
+  </view>
+  <view class="center-css__item">
+    <text>flex 🚀</text>
+  </view>
+  <view class="center-css__item">
+    <text>flex 🚀</text>
+  </view>
+</view>

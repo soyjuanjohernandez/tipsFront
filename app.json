@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/boxModel/boxModel",
+    "pages/live/live",
+    "pages/especificidad/especificidad",
+    "pages/buton-paje/buton-paje",
+    "pages/center/center"
+  ],
+  "window": {}
+}

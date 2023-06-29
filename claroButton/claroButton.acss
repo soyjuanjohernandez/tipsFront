@@ -1,0 +1,36 @@
+.btn{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 35rpx;
+  height: 100rpx;
+  width: 100%;
+  border-radius: 26px;  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* box-sizing: border-box; */
+  margin: 40px 0;
+
+}
+
+
+.btn-primary{
+  background-color: #DA291C;
+  color: white;
+}
+
+.btn-primary:active{
+  background-color: white;
+  color: #DA291C;
+  border: 1px solid #DA291C;
+}
+
+.btn-secondary{
+  background-color: white;
+  color: #DA291C;
+  border: 1px solid #DA291C;
+}
+
+.btn-secondary:active{
+  background-color: #DA291C;
+  color: white;
+}

@@ -1,0 +1,7 @@
+
+
+
+<button class="btn btn-{{type}}" onTap="onTap">{{text}}</button>
+
+
+
